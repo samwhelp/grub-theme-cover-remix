@@ -17,5 +17,7 @@ help:
 	@echo
 	@echo '	$$ make apply-right'
 	@echo
+	@echo '	$$ make negative-center'
+	@echo
 	@echo
 .PHONY: help

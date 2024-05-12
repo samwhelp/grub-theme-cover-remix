@@ -31,4 +31,6 @@ Ex:
 
 	$ make apply-right
 
+	$ make apply-negative-center
+
 ```
